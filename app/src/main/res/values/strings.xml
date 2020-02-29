@@ -21,4 +21,9 @@
     <string name="repetir_contrase_a">Repetir Contraseña</string>
     <string name="bookingtime">bookingtime</string>
     <string name="numero_de_celular">Numero de celular</string>
+    <string name="btn_ver_reservas">Ver reservas</string>
+    <string name="btn_reservar">Reservar</string>
+    <string name="btn_ver_menu">Ver menú</string>
+    <string name="restaurant_title">Nombre del restaurante</string>
+    <string name="text_description">Información del restaurante</string>
 </resources>
