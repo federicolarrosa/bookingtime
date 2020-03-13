@@ -26,4 +26,7 @@
     <string name="btn_ver_menu">Ver menú</string>
     <string name="restaurant_title">Nombre del restaurante</string>
     <string name="text_description">Información del restaurante</string>
+    <string name="btn_atras">Atrás</string>
+    <string name="text_reservas">Reservas</string>
+    <string name="text_menu">Menú</string>
 </resources>
